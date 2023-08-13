@@ -1,0 +1,53 @@
+\documentclass[UTF8]{ctexbook}
+\usepackage{lipsum}
+\usepackage{xcolor}
+\usepackage{framed}
+\usepackage{datetime}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{fourier}
+\usepackage{marginnote}
+\usepackage{tikz}
+\usepackage{amsmath, amsthm, amssymb}
+\usepackage{hyperref}
+
+%一些快捷符號
+\newcommand{\C}{\mathbb{C}}
+
+
+
+
+
+%日記環境
+\newenvironment{diary}[2]{
+    \hrule \vspace{0.5em}
+    \leftline{\emph{#1}} \par \rightline{#2}
+    \vspace{0.8em}
+}{\par  \vspace{0.5em}\hrule \vspace{3em}}
+
+
+
+
+\title{\Huge 我的绮丽宇宙行记}
+\author{Alice-Celia}
+\date{\zhtoday}
+\begin{document}
+\maketitle
+
+
+%\iffalse
+\section*{2023 二月}
+
+\input{./my diary/2023/2-23.tex}
+\input{./my diary/2023/2-24.tex}
+\input{./my diary/2023/2-25.tex}
+\input{./my diary/2023/2-26.tex}
+
+\section*{2023 七月}
+\input{./my diary/2023/7-7.tex}
+\input{my diary/2023/7-21.tex}
+
+\section*{2023 八月}
+\input{my diary/2023/8-13.tex}
+
+\end{document}
