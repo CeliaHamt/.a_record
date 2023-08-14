@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.7.15)  14 AUG 2023 00:30
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.7.15)  14 AUG 2023 23:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -910,7 +910,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
 
-] (./my diary/2023/2-23.tex) (./my diary/2023/2-24.tex
+] (./my diary/2023/8-14.tex
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
 (Font)              scaled to size 9.6962pt on input line 4.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
@@ -923,11 +923,7 @@ LaTeX Font Info:    Font shape `U/futm/m/n' will be
 (Font)              scaled to size 6.43999pt on input line 4.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
 (Font)              scaled to size 4.59999pt on input line 4.
- [2]) (./my diary/2023/2-25.tex) (./my diary/2023/2-26.tex) (./my diary/2023/7-7.tex [3]) (./my diary/2023/7-21.tex) (./my diary/2023/8-13.tex
-LaTeX Font Info:    Trying to load font information for TS1+futs on input line 8.
- (d:/texlive/2023/texmf-dist/tex/latex/fourier/ts1futs.fd
-File: ts1futs.fd 2003/09/14 Fontinst v1.801 font definitions for TS1/futs.
-) [4]) [5] (./diarymain.aux)
+) [2] (./diarymain.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2022/07/14>
@@ -936,12 +932,12 @@ Package rerunfilecheck Info: File `diarymain.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 28309 strings out of 475889
- 607776 string characters out of 5782010
- 1923869 words of memory out of 5000000
- 48815 multiletter control sequences out of 15000+600000
- 634333 words of font info for 113 fonts, out of 8000000 for 9000
+ 28244 strings out of 475889
+ 606712 string characters out of 5782010
+ 1916869 words of memory out of 5000000
+ 48775 multiletter control sequences out of 15000+600000
+ 625680 words of font info for 109 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 102i,6n,107p,1014b,454s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 102i,6n,107p,1014b,357s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on diarymain.pdf (5 pages).
+Output written on diarymain.pdf (2 pages).
