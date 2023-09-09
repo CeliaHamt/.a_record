@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.7.15)  14 AUG 2023 23:58
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.7.15)  29 AUG 2023 00:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -831,112 +831,128 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
 )
 \Hy@SectionHShift=\skip67
-) (./diarymain.aux)
+)
+\c@theorem=\count367
+
+No file diarymain.aux.
 \openout1 = `diarymain.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for FML/futm/m/it on input line 34.
-LaTeX Font Info:    Trying to load font information for FML+futm on input line 34.
- (d:/texlive/2023/texmf-dist/tex/latex/fourier/fmlfutm.fd
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for FML/futm/m/it on input line 40.
+LaTeX Font Info:    Trying to load font information for FML+futm on input line 40.
+(d:/texlive/2023/texmf-dist/tex/latex/fourier/fmlfutm.fd
 File: fmlfutm.fd 2004/10/30 Fontinst v1.926 font definitions for FML/futm.
 )
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for FMS/futm/m/n on input line 34.
-LaTeX Font Info:    Trying to load font information for FMS+futm on input line 34.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for FMS/futm/m/n on input line 40.
+LaTeX Font Info:    Trying to load font information for FMS+futm on input line 40.
  (d:/texlive/2023/texmf-dist/tex/latex/fourier/fmsfutm.fd
 File: fmsfutm.fd 2004/10/30 Fontinst v1.926 font definitions for FMS/futm.
 )
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for FMX/futm/m/n on input line 34.
-LaTeX Font Info:    Trying to load font information for FMX+futm on input line 34.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for FMX/futm/m/n on input line 40.
+LaTeX Font Info:    Trying to load font information for FMX+futm on input line 40.
  (d:/texlive/2023/texmf-dist/tex/latex/fourier/fmxfutm.fd
 File: fmxfutm.fd futm-extension
 )
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
  (d:/texlive/2023/texmf-dist/tex/latex/fmtcount/fc-english.def
 Invalid UTF-8 byte or sequence at line 10 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 22 replaced by U+FFFD.
 File: fc-english.def 2016/01/12
 )
-LaTeX Font Info:    Redeclaring math accent \widehat on input line 34.
-LaTeX Font Info:    Redeclaring math accent \widetilde on input line 34.
-Package hyperref Info: Link coloring OFF on input line 34.
- (./diarymain.out) (./diarymain.out)
+LaTeX Font Info:    Redeclaring math accent \widehat on input line 40.
+LaTeX Font Info:    Redeclaring math accent \widetilde on input line 40.
+Package hyperref Info: Link coloring OFF on input line 40.
 \@outlinefile=\write4
 \openout4 = `diarymain.out'.
 
-LaTeX Font Info:    Trying to load font information for FML+futmi on input line 36.
- (d:/texlive/2023/texmf-dist/tex/latex/fourier/fmlfutmi.fd
+
+
+Package hyperref Warning: Rerun to get /PageLabels entry.
+
+LaTeX Font Info:    Trying to load font information for FML+futmi on input line 42.
+(d:/texlive/2023/texmf-dist/tex/latex/fourier/fmlfutmi.fd
 File: fmlfutmi.fd 2004/10/30 Fontinst v1.926 font definitions for FML/futmi.
 )
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 11.08138pt on input line 36.
+(Font)              scaled to size 11.08138pt on input line 42.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 7.35999pt on input line 36.
+(Font)              scaled to size 7.35999pt on input line 42.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 5.51999pt on input line 36.
+(Font)              scaled to size 5.51999pt on input line 42.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 11.08138pt on input line 36.
+(Font)              scaled to size 11.08138pt on input line 42.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 7.35999pt on input line 36.
+(Font)              scaled to size 7.35999pt on input line 42.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 5.51999pt on input line 36.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 36.
+(Font)              scaled to size 5.51999pt on input line 42.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 42.
  (d:/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 36.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 42.
  (d:/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
 
-] (./my diary/2023/8-14.tex
+] (./my diary/2023/8-28.tex
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 9.6962pt on input line 4.
+(Font)              scaled to size 9.6962pt on input line 2.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 6.43999pt on input line 4.
+(Font)              scaled to size 6.43999pt on input line 2.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 4.59999pt on input line 4.
+(Font)              scaled to size 4.59999pt on input line 2.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 9.6962pt on input line 4.
+(Font)              scaled to size 9.6962pt on input line 2.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 6.43999pt on input line 4.
+(Font)              scaled to size 6.43999pt on input line 2.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 4.59999pt on input line 4.
-) [2] (./diarymain.aux)
+(Font)              scaled to size 4.59999pt on input line 2.
+LaTeX Font Info:    Trying to load font information for U+euf on input line 2.
+ (d:/texlive/2023/texmf-dist/tex/latex/amsfonts/ueuf.fd
+File: ueuf.fd 2013/01/14 v3.01 Euler Fraktur
+)) [2] (./diarymain.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2022/07/14>
  ***********
-Package rerunfilecheck Info: File `diarymain.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+
+
+Package rerunfilecheck Warning: File `diarymain.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `diarymain.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 28244 strings out of 475889
- 606712 string characters out of 5782010
- 1916869 words of memory out of 5000000
- 48775 multiletter control sequences out of 15000+600000
- 625680 words of font info for 109 fonts, out of 8000000 for 9000
+ 28169 strings out of 475889
+ 600965 string characters out of 5782010
+ 1913869 words of memory out of 5000000
+ 48701 multiletter control sequences out of 15000+600000
+ 630472 words of font info for 111 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  102i,6n,107p,1014b,357s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
